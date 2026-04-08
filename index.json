@@ -1,0 +1,125 @@
+{
+  "version": 1775627678132,
+  "stories": [
+    {
+      "id": "cloud-cat",
+      "title": "雲朵上的貓",
+      "category": "童話",
+      "lang": "zh-TW",
+      "paragraphCount": 10,
+      "file": "stories/zh-TW/cloud-cat.json"
+    },
+    {
+      "id": "moon-lake",
+      "title": "月光湖",
+      "category": "童話",
+      "lang": "zh-TW",
+      "paragraphCount": 10,
+      "file": "stories/zh-TW/moon-lake.json"
+    },
+    {
+      "id": "star-garden",
+      "title": "星星花園",
+      "category": "散文",
+      "lang": "zh-TW",
+      "paragraphCount": 10,
+      "file": "stories/zh-TW/star-garden.json"
+    },
+    {
+      "id": "cloud-cat-cn",
+      "title": "云朵上的猫",
+      "category": "童话",
+      "lang": "zh-CN",
+      "paragraphCount": 10,
+      "file": "stories/zh-CN/cloud-cat-cn.json"
+    },
+    {
+      "id": "moon-lake-cn",
+      "title": "月光湖",
+      "category": "童话",
+      "lang": "zh-CN",
+      "paragraphCount": 10,
+      "file": "stories/zh-CN/moon-lake-cn.json"
+    },
+    {
+      "id": "star-garden-cn",
+      "title": "星星花园",
+      "category": "散文",
+      "lang": "zh-CN",
+      "paragraphCount": 9,
+      "file": "stories/zh-CN/star-garden-cn.json"
+    },
+    {
+      "id": "cloud-cat-en",
+      "title": "The Cat on the Cloud",
+      "category": "Fairy Tale",
+      "lang": "en",
+      "paragraphCount": 10,
+      "file": "stories/en/cloud-cat-en.json"
+    },
+    {
+      "id": "moon-lake-en",
+      "title": "The Moonlight Lake",
+      "category": "Fairy Tale",
+      "lang": "en",
+      "paragraphCount": 10,
+      "file": "stories/en/moon-lake-en.json"
+    },
+    {
+      "id": "star-garden-en",
+      "title": "The Star Garden",
+      "category": "Essay",
+      "lang": "en",
+      "paragraphCount": 9,
+      "file": "stories/en/star-garden-en.json"
+    },
+    {
+      "id": "ai-1775626524568-g3u8nt",
+      "title": "ちいさなお星さま キラリ",
+      "category": "童話",
+      "lang": "ja",
+      "paragraphCount": 10,
+      "file": "stories/ja/ai-1775626524568-g3u8nt.json"
+    },
+    {
+      "id": "cloud-cat-ja",
+      "title": "雲の上の猫",
+      "category": "童話",
+      "lang": "ja",
+      "paragraphCount": 10,
+      "file": "stories/ja/cloud-cat-ja.json"
+    },
+    {
+      "id": "moon-lake-ja",
+      "title": "月光の湖",
+      "category": "童話",
+      "lang": "ja",
+      "paragraphCount": 10,
+      "file": "stories/ja/moon-lake-ja.json"
+    },
+    {
+      "id": "cloud-cat-ko",
+      "title": "구름 위의 고양이",
+      "category": "동화",
+      "lang": "ko",
+      "paragraphCount": 10,
+      "file": "stories/ko/cloud-cat-ko.json"
+    },
+    {
+      "id": "moon-lake-ko",
+      "title": "달빛 호수",
+      "category": "동화",
+      "lang": "ko",
+      "paragraphCount": 10,
+      "file": "stories/ko/moon-lake-ko.json"
+    },
+    {
+      "id": "star-garden-ko",
+      "title": "별의 정원",
+      "category": "수필",
+      "lang": "ko",
+      "paragraphCount": 9,
+      "file": "stories/ko/star-garden-ko.json"
+    }
+  ]
+}
