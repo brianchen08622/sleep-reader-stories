@@ -1,5 +1,5 @@
 {
-  "version": 1775632449114,
+  "version": 1775638677032,
   "stories": [
     {
       "id": "ai-1775628414016-av4r6m",
@@ -16,6 +16,70 @@
       "lang": "zh-TW",
       "paragraphCount": 10,
       "file": "stories/zh-TW/ai-1775628438215-ekegy6.json"
+    },
+    {
+      "id": "bedtime-zh-01",
+      "title": "螢火蟲的小燈籠",
+      "category": "童話",
+      "lang": "zh-TW",
+      "paragraphCount": 11,
+      "file": "stories/zh-TW/bedtime-zh-01.json"
+    },
+    {
+      "id": "bedtime-zh-02",
+      "title": "書店裡的貓店長",
+      "category": "童話",
+      "lang": "zh-TW",
+      "paragraphCount": 11,
+      "file": "stories/zh-TW/bedtime-zh-02.json"
+    },
+    {
+      "id": "bedtime-zh-03",
+      "title": "夜雨輕敲",
+      "category": "散文",
+      "lang": "zh-TW",
+      "paragraphCount": 11,
+      "file": "stories/zh-TW/bedtime-zh-03.json"
+    },
+    {
+      "id": "bedtime-zh-04",
+      "title": "黃昏的森林",
+      "category": "自然",
+      "lang": "zh-TW",
+      "paragraphCount": 11,
+      "file": "stories/zh-TW/bedtime-zh-04.json"
+    },
+    {
+      "id": "bedtime-zh-05",
+      "title": "與海洋一起呼吸",
+      "category": "冥想",
+      "lang": "zh-TW",
+      "paragraphCount": 12,
+      "file": "stories/zh-TW/bedtime-zh-05.json"
+    },
+    {
+      "id": "bedtime-zh-06",
+      "title": "穿過田野的慢車",
+      "category": "旅行",
+      "lang": "zh-TW",
+      "paragraphCount": 11,
+      "file": "stories/zh-TW/bedtime-zh-06.json"
+    },
+    {
+      "id": "bedtime-zh-07",
+      "title": "織雲的女孩",
+      "category": "童話",
+      "lang": "zh-TW",
+      "paragraphCount": 11,
+      "file": "stories/zh-TW/bedtime-zh-07.json"
+    },
+    {
+      "id": "bedtime-zh-08",
+      "title": "冬日花園",
+      "category": "自然",
+      "lang": "zh-TW",
+      "paragraphCount": 11,
+      "file": "stories/zh-TW/bedtime-zh-08.json"
     },
     {
       "id": "cloud-cat",
@@ -58,6 +122,70 @@
       "file": "stories/zh-CN/ai-1775628475993-92o1hd.json"
     },
     {
+      "id": "bedtime-cn-01",
+      "title": "萤火虫的灯笼节",
+      "category": "童话",
+      "lang": "zh-CN",
+      "paragraphCount": 12,
+      "file": "stories/zh-CN/bedtime-cn-01.json"
+    },
+    {
+      "id": "bedtime-cn-02",
+      "title": "书店里的猫",
+      "category": "童话",
+      "lang": "zh-CN",
+      "paragraphCount": 11,
+      "file": "stories/zh-CN/bedtime-cn-02.json"
+    },
+    {
+      "id": "bedtime-cn-03",
+      "title": "夜雨",
+      "category": "散文",
+      "lang": "zh-CN",
+      "paragraphCount": 11,
+      "file": "stories/zh-CN/bedtime-cn-03.json"
+    },
+    {
+      "id": "bedtime-cn-04",
+      "title": "黄昏的森林",
+      "category": "自然",
+      "lang": "zh-CN",
+      "paragraphCount": 12,
+      "file": "stories/zh-CN/bedtime-cn-04.json"
+    },
+    {
+      "id": "bedtime-cn-05",
+      "title": "与海洋一起呼吸",
+      "category": "冥想",
+      "lang": "zh-CN",
+      "paragraphCount": 12,
+      "file": "stories/zh-CN/bedtime-cn-05.json"
+    },
+    {
+      "id": "bedtime-cn-06",
+      "title": "穿越田野的火车",
+      "category": "旅行",
+      "lang": "zh-CN",
+      "paragraphCount": 12,
+      "file": "stories/zh-CN/bedtime-cn-06.json"
+    },
+    {
+      "id": "bedtime-cn-07",
+      "title": "织云的人",
+      "category": "童话",
+      "lang": "zh-CN",
+      "paragraphCount": 11,
+      "file": "stories/zh-CN/bedtime-cn-07.json"
+    },
+    {
+      "id": "bedtime-cn-08",
+      "title": "冬天的花园",
+      "category": "自然",
+      "lang": "zh-CN",
+      "paragraphCount": 11,
+      "file": "stories/zh-CN/bedtime-cn-08.json"
+    },
+    {
       "id": "cloud-cat-cn",
       "title": "云朵上的猫",
       "category": "童话",
@@ -96,6 +224,70 @@
       "lang": "en",
       "paragraphCount": 11,
       "file": "stories/en/ai-1775628494434-tolk2p.json"
+    },
+    {
+      "id": "bedtime-en-01",
+      "title": "The Fireflies' Lantern Festival",
+      "category": "Fairy Tale",
+      "lang": "en",
+      "paragraphCount": 12,
+      "file": "stories/en/bedtime-en-01.json"
+    },
+    {
+      "id": "bedtime-en-02",
+      "title": "The Bookshop Cat",
+      "category": "Fairy Tale",
+      "lang": "en",
+      "paragraphCount": 11,
+      "file": "stories/en/bedtime-en-02.json"
+    },
+    {
+      "id": "bedtime-en-03",
+      "title": "Night Rain on the Window",
+      "category": "Essay",
+      "lang": "en",
+      "paragraphCount": 10,
+      "file": "stories/en/bedtime-en-03.json"
+    },
+    {
+      "id": "bedtime-en-04",
+      "title": "The Forest at Twilight",
+      "category": "Nature",
+      "lang": "en",
+      "paragraphCount": 11,
+      "file": "stories/en/bedtime-en-04.json"
+    },
+    {
+      "id": "bedtime-en-05",
+      "title": "Breathing with the Ocean",
+      "category": "Meditation",
+      "lang": "en",
+      "paragraphCount": 10,
+      "file": "stories/en/bedtime-en-05.json"
+    },
+    {
+      "id": "bedtime-en-06",
+      "title": "A Train Through the Countryside",
+      "category": "Travel",
+      "lang": "en",
+      "paragraphCount": 11,
+      "file": "stories/en/bedtime-en-06.json"
+    },
+    {
+      "id": "bedtime-en-07",
+      "title": "The Cloud Weaver",
+      "category": "Fairy Tale",
+      "lang": "en",
+      "paragraphCount": 11,
+      "file": "stories/en/bedtime-en-07.json"
+    },
+    {
+      "id": "bedtime-en-08",
+      "title": "A Garden in Winter",
+      "category": "Nature",
+      "lang": "en",
+      "paragraphCount": 11,
+      "file": "stories/en/bedtime-en-08.json"
     },
     {
       "id": "cloud-cat-en",
@@ -146,6 +338,70 @@
       "file": "stories/ja/ai-1775631847982-u16c05.json"
     },
     {
+      "id": "bedtime-ja-01",
+      "title": "蛍の提灯祭り",
+      "category": "童話",
+      "lang": "ja",
+      "paragraphCount": 12,
+      "file": "stories/ja/bedtime-ja-01.json"
+    },
+    {
+      "id": "bedtime-ja-02",
+      "title": "本屋の猫",
+      "category": "童話",
+      "lang": "ja",
+      "paragraphCount": 12,
+      "file": "stories/ja/bedtime-ja-02.json"
+    },
+    {
+      "id": "bedtime-ja-03",
+      "title": "夜の雨",
+      "category": "エッセイ",
+      "lang": "ja",
+      "paragraphCount": 11,
+      "file": "stories/ja/bedtime-ja-03.json"
+    },
+    {
+      "id": "bedtime-ja-04",
+      "title": "黄昏の森",
+      "category": "自然",
+      "lang": "ja",
+      "paragraphCount": 12,
+      "file": "stories/ja/bedtime-ja-04.json"
+    },
+    {
+      "id": "bedtime-ja-05",
+      "title": "海と一緒に呼吸する",
+      "category": "瞑想",
+      "lang": "ja",
+      "paragraphCount": 12,
+      "file": "stories/ja/bedtime-ja-05.json"
+    },
+    {
+      "id": "bedtime-ja-06",
+      "title": "田園を走る列車",
+      "category": "旅行",
+      "lang": "ja",
+      "paragraphCount": 12,
+      "file": "stories/ja/bedtime-ja-06.json"
+    },
+    {
+      "id": "bedtime-ja-07",
+      "title": "雲を織る人",
+      "category": "童話",
+      "lang": "ja",
+      "paragraphCount": 12,
+      "file": "stories/ja/bedtime-ja-07.json"
+    },
+    {
+      "id": "bedtime-ja-08",
+      "title": "冬の庭",
+      "category": "自然",
+      "lang": "ja",
+      "paragraphCount": 12,
+      "file": "stories/ja/bedtime-ja-08.json"
+    },
+    {
       "id": "cloud-cat-ja",
       "title": "雲の上の猫",
       "category": "童話",
@@ -176,6 +432,70 @@
       "lang": "ko",
       "paragraphCount": 12,
       "file": "stories/ko/ai-1775631887049-gv7yry.json"
+    },
+    {
+      "id": "bedtime-ko-01",
+      "title": "반딧불이 등불 축제",
+      "category": "동화",
+      "lang": "ko",
+      "paragraphCount": 12,
+      "file": "stories/ko/bedtime-ko-01.json"
+    },
+    {
+      "id": "bedtime-ko-02",
+      "title": "서점의 고양이",
+      "category": "동화",
+      "lang": "ko",
+      "paragraphCount": 11,
+      "file": "stories/ko/bedtime-ko-02.json"
+    },
+    {
+      "id": "bedtime-ko-03",
+      "title": "밤비",
+      "category": "수필",
+      "lang": "ko",
+      "paragraphCount": 11,
+      "file": "stories/ko/bedtime-ko-03.json"
+    },
+    {
+      "id": "bedtime-ko-04",
+      "title": "황혼의 숲",
+      "category": "자연",
+      "lang": "ko",
+      "paragraphCount": 11,
+      "file": "stories/ko/bedtime-ko-04.json"
+    },
+    {
+      "id": "bedtime-ko-05",
+      "title": "바다와 함께 숨쉬기",
+      "category": "명상",
+      "lang": "ko",
+      "paragraphCount": 12,
+      "file": "stories/ko/bedtime-ko-05.json"
+    },
+    {
+      "id": "bedtime-ko-06",
+      "title": "시골을 달리는 기차",
+      "category": "여행",
+      "lang": "ko",
+      "paragraphCount": 11,
+      "file": "stories/ko/bedtime-ko-06.json"
+    },
+    {
+      "id": "bedtime-ko-07",
+      "title": "구름을 짜는 사람",
+      "category": "동화",
+      "lang": "ko",
+      "paragraphCount": 11,
+      "file": "stories/ko/bedtime-ko-07.json"
+    },
+    {
+      "id": "bedtime-ko-08",
+      "title": "겨울 정원",
+      "category": "자연",
+      "lang": "ko",
+      "paragraphCount": 11,
+      "file": "stories/ko/bedtime-ko-08.json"
     },
     {
       "id": "cloud-cat-ko",
