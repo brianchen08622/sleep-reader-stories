@@ -1,5 +1,5 @@
 {
-  "version": 1775627678132,
+  "version": 1775628386473,
   "stories": [
     {
       "id": "cloud-cat",
@@ -50,6 +50,14 @@
       "file": "stories/zh-CN/star-garden-cn.json"
     },
     {
+      "id": "ai-1775628311871-n4akwd",
+      "title": "The Lullaby Stream and Pip the Owl",
+      "category": "Fairy Tale",
+      "lang": "en",
+      "paragraphCount": 10,
+      "file": "stories/en/ai-1775628311871-n4akwd.json"
+    },
+    {
       "id": "cloud-cat-en",
       "title": "The Cat on the Cloud",
       "category": "Fairy Tale",
@@ -96,6 +104,14 @@
       "lang": "ja",
       "paragraphCount": 10,
       "file": "stories/ja/moon-lake-ja.json"
+    },
+    {
+      "id": "ai-1775628384909-z7tuec",
+      "title": "반짝이 별의 고요한 속삭임",
+      "category": "동화",
+      "lang": "ko",
+      "paragraphCount": 11,
+      "file": "stories/ko/ai-1775628384909-z7tuec.json"
     },
     {
       "id": "cloud-cat-ko",
