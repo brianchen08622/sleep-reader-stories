@@ -1,5 +1,5 @@
 {
-  "version": 1775638677032,
+  "version": 1775692431051,
   "stories": [
     {
       "id": "ai-1775628414016-av4r6m",
@@ -88,6 +88,14 @@
       "lang": "zh-TW",
       "paragraphCount": 10,
       "file": "stories/zh-TW/cloud-cat.json"
+    },
+    {
+      "id": "little-prince-zh-tw",
+      "title": "小王子",
+      "category": "童話",
+      "lang": "zh-TW",
+      "paragraphCount": 28,
+      "file": "stories/zh-TW/little-prince-zh-tw.json"
     },
     {
       "id": "moon-lake",
@@ -194,6 +202,14 @@
       "file": "stories/zh-CN/cloud-cat-cn.json"
     },
     {
+      "id": "little-prince-zh-cn",
+      "title": "小王子",
+      "category": "童话",
+      "lang": "zh-CN",
+      "paragraphCount": 29,
+      "file": "stories/zh-CN/little-prince-zh-cn.json"
+    },
+    {
       "id": "moon-lake-cn",
       "title": "月光湖",
       "category": "童话",
@@ -296,6 +312,14 @@
       "lang": "en",
       "paragraphCount": 10,
       "file": "stories/en/cloud-cat-en.json"
+    },
+    {
+      "id": "little-prince-en",
+      "title": "The Little Prince",
+      "category": "Fairy Tale",
+      "lang": "en",
+      "paragraphCount": 29,
+      "file": "stories/en/little-prince-en.json"
     },
     {
       "id": "moon-lake-en",
@@ -410,6 +434,14 @@
       "file": "stories/ja/cloud-cat-ja.json"
     },
     {
+      "id": "little-prince-ja",
+      "title": "星の王子さま",
+      "category": "童話",
+      "lang": "ja",
+      "paragraphCount": 27,
+      "file": "stories/ja/little-prince-ja.json"
+    },
+    {
       "id": "moon-lake-ja",
       "title": "月光の湖",
       "category": "童話",
@@ -504,6 +536,14 @@
       "lang": "ko",
       "paragraphCount": 10,
       "file": "stories/ko/cloud-cat-ko.json"
+    },
+    {
+      "id": "little-prince-ko",
+      "title": "어린 왕자",
+      "category": "동화",
+      "lang": "ko",
+      "paragraphCount": 28,
+      "file": "stories/ko/little-prince-ko.json"
     },
     {
       "id": "moon-lake-ko",
