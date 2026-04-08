@@ -1,5 +1,5 @@
 {
-  "version": 1775628507761,
+  "version": 1775632449114,
   "stories": [
     {
       "id": "ai-1775628414016-av4r6m",
@@ -130,6 +130,22 @@
       "file": "stories/ja/ai-1775626524568-g3u8nt.json"
     },
     {
+      "id": "ai-1775631804511-b12rel",
+      "title": "夜の帳に包まれて",
+      "category": "エッセイ",
+      "lang": "ja",
+      "paragraphCount": 12,
+      "file": "stories/ja/ai-1775631804511-b12rel.json"
+    },
+    {
+      "id": "ai-1775631847982-u16c05",
+      "title": "月明かりの湖畔で眠る夜",
+      "category": "瞑想",
+      "lang": "ja",
+      "paragraphCount": 10,
+      "file": "stories/ja/ai-1775631847982-u16c05.json"
+    },
+    {
       "id": "cloud-cat-ja",
       "title": "雲の上の猫",
       "category": "童話",
@@ -152,6 +168,14 @@
       "lang": "ko",
       "paragraphCount": 11,
       "file": "stories/ko/ai-1775628384909-z7tuec.json"
+    },
+    {
+      "id": "ai-1775631887049-gv7yry",
+      "title": "솜털 구름 아가의 포근한 꿈",
+      "category": "동화",
+      "lang": "ko",
+      "paragraphCount": 12,
+      "file": "stories/ko/ai-1775631887049-gv7yry.json"
     },
     {
       "id": "cloud-cat-ko",
