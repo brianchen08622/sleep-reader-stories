@@ -1,6 +1,22 @@
 {
-  "version": 1775628386473,
+  "version": 1775628507761,
   "stories": [
+    {
+      "id": "ai-1775628414016-av4r6m",
+      "title": "小朵雲的尋夢之旅",
+      "category": "童話",
+      "lang": "zh-TW",
+      "paragraphCount": 12,
+      "file": "stories/zh-TW/ai-1775628414016-av4r6m.json"
+    },
+    {
+      "id": "ai-1775628438215-ekegy6",
+      "title": "星光下的晚安曲",
+      "category": "散文",
+      "lang": "zh-TW",
+      "paragraphCount": 10,
+      "file": "stories/zh-TW/ai-1775628438215-ekegy6.json"
+    },
     {
       "id": "cloud-cat",
       "title": "雲朵上的貓",
@@ -24,6 +40,22 @@
       "lang": "zh-TW",
       "paragraphCount": 10,
       "file": "stories/zh-TW/star-garden.json"
+    },
+    {
+      "id": "ai-1775628459079-suqscc",
+      "title": "萤萤的温柔之光",
+      "category": "童话",
+      "lang": "zh-CN",
+      "paragraphCount": 11,
+      "file": "stories/zh-CN/ai-1775628459079-suqscc.json"
+    },
+    {
+      "id": "ai-1775628475993-92o1hd",
+      "title": "小村庄的睡前安宁",
+      "category": "散文",
+      "lang": "zh-CN",
+      "paragraphCount": 12,
+      "file": "stories/zh-CN/ai-1775628475993-92o1hd.json"
     },
     {
       "id": "cloud-cat-cn",
@@ -56,6 +88,14 @@
       "lang": "en",
       "paragraphCount": 10,
       "file": "stories/en/ai-1775628311871-n4akwd.json"
+    },
+    {
+      "id": "ai-1775628494434-tolk2p",
+      "title": "The Lullaby of the Starry River",
+      "category": "Fairy Tale",
+      "lang": "en",
+      "paragraphCount": 11,
+      "file": "stories/en/ai-1775628494434-tolk2p.json"
     },
     {
       "id": "cloud-cat-en",
