@@ -1,9 +1,10 @@
 {
-  "version": 1775712760563,
+  "version": 1775713542960,
   "stories": [
     {
       "id": "ai-1775628414016-av4r6m",
       "title": "小朵雲的尋夢之旅",
+      "author": "",
       "category": "童話",
       "lang": "zh-TW",
       "paragraphCount": 12,
@@ -12,6 +13,7 @@
     {
       "id": "ai-1775628438215-ekegy6",
       "title": "星光下的晚安曲",
+      "author": "",
       "category": "散文",
       "lang": "zh-TW",
       "paragraphCount": 10,
@@ -20,6 +22,7 @@
     {
       "id": "autumn-capital-zh-tw",
       "title": "故都的秋",
+      "author": "郁達夫",
       "category": "散文",
       "lang": "zh-TW",
       "paragraphCount": 13,
@@ -28,6 +31,7 @@
     {
       "id": "bedtime-zh-01",
       "title": "螢火蟲的小燈籠",
+      "author": "枕邊書語",
       "category": "童話",
       "lang": "zh-TW",
       "paragraphCount": 11,
@@ -36,6 +40,7 @@
     {
       "id": "bedtime-zh-02",
       "title": "書店裡的貓店長",
+      "author": "枕邊書語",
       "category": "童話",
       "lang": "zh-TW",
       "paragraphCount": 11,
@@ -44,6 +49,7 @@
     {
       "id": "bedtime-zh-03",
       "title": "夜雨輕敲",
+      "author": "枕邊書語",
       "category": "散文",
       "lang": "zh-TW",
       "paragraphCount": 11,
@@ -52,6 +58,7 @@
     {
       "id": "bedtime-zh-04",
       "title": "黃昏的森林",
+      "author": "枕邊書語",
       "category": "自然",
       "lang": "zh-TW",
       "paragraphCount": 11,
@@ -60,6 +67,7 @@
     {
       "id": "bedtime-zh-05",
       "title": "與海洋一起呼吸",
+      "author": "枕邊書語",
       "category": "冥想",
       "lang": "zh-TW",
       "paragraphCount": 12,
@@ -68,6 +76,7 @@
     {
       "id": "bedtime-zh-06",
       "title": "穿過田野的慢車",
+      "author": "枕邊書語",
       "category": "旅行",
       "lang": "zh-TW",
       "paragraphCount": 11,
@@ -76,6 +85,7 @@
     {
       "id": "bedtime-zh-07",
       "title": "織雲的女孩",
+      "author": "枕邊書語",
       "category": "童話",
       "lang": "zh-TW",
       "paragraphCount": 11,
@@ -84,6 +94,7 @@
     {
       "id": "bedtime-zh-08",
       "title": "冬日花園",
+      "author": "枕邊書語",
       "category": "自然",
       "lang": "zh-TW",
       "paragraphCount": 11,
@@ -92,6 +103,7 @@
     {
       "id": "cloud-cat",
       "title": "雲朵上的貓",
+      "author": "",
       "category": "童話",
       "lang": "zh-TW",
       "paragraphCount": 10,
@@ -100,6 +112,7 @@
     {
       "id": "farewell-cambridge-zh-tw",
       "title": "再別康橋",
+      "author": "徐志摩",
       "category": "散文",
       "lang": "zh-TW",
       "paragraphCount": 8,
@@ -108,6 +121,7 @@
     {
       "id": "fathers-back-zh-tw",
       "title": "背影",
+      "author": "朱自清",
       "category": "散文",
       "lang": "zh-TW",
       "paragraphCount": 11,
@@ -116,6 +130,7 @@
     {
       "id": "galactic-railroad-zh-tw",
       "title": "銀河鐵道之夜",
+      "author": "宮澤賢治 原著",
       "category": "童話",
       "lang": "zh-TW",
       "paragraphCount": 19,
@@ -124,6 +139,7 @@
     {
       "id": "gon-fox-zh-tw",
       "title": "小狐狸阿權",
+      "author": "新美南吉 原著",
       "category": "童話",
       "lang": "zh-TW",
       "paragraphCount": 15,
@@ -132,6 +148,7 @@
     {
       "id": "green-zh-tw",
       "title": "綠",
+      "author": "朱自清",
       "category": "散文",
       "lang": "zh-TW",
       "paragraphCount": 10,
@@ -140,6 +157,7 @@
     {
       "id": "happy-prince-zh-tw",
       "title": "快樂王子",
+      "author": "王爾德 原著",
       "category": "童話",
       "lang": "zh-TW",
       "paragraphCount": 14,
@@ -148,6 +166,7 @@
     {
       "id": "herb-garden-zh-tw",
       "title": "從百草園到三味書屋",
+      "author": "魯迅",
       "category": "散文",
       "lang": "zh-TW",
       "paragraphCount": 24,
@@ -156,6 +175,7 @@
     {
       "id": "homeland-zh-tw",
       "title": "故鄉",
+      "author": "魯迅",
       "category": "散文",
       "lang": "zh-TW",
       "paragraphCount": 37,
@@ -164,6 +184,7 @@
     {
       "id": "jinan-winter-zh-tw",
       "title": "濟南的冬天",
+      "author": "老舍 原著",
       "category": "散文",
       "lang": "zh-TW",
       "paragraphCount": 11,
@@ -172,6 +193,7 @@
     {
       "id": "little-prince-zh-tw",
       "title": "小王子",
+      "author": "聖修伯里 原著",
       "category": "童話",
       "lang": "zh-TW",
       "paragraphCount": 91,
@@ -180,6 +202,7 @@
     {
       "id": "lotus-moonlight-zh-tw",
       "title": "荷塘月色",
+      "author": "朱自清",
       "category": "散文",
       "lang": "zh-TW",
       "paragraphCount": 12,
@@ -188,6 +211,7 @@
     {
       "id": "missing-beiping-zh-tw",
       "title": "想北平",
+      "author": "老舍 原著",
       "category": "散文",
       "lang": "zh-TW",
       "paragraphCount": 11,
@@ -196,6 +220,7 @@
     {
       "id": "moon-lake",
       "title": "月光湖",
+      "author": "",
       "category": "童話",
       "lang": "zh-TW",
       "paragraphCount": 10,
@@ -204,6 +229,7 @@
     {
       "id": "peanuts-zh-tw",
       "title": "落花生",
+      "author": "許地山",
       "category": "散文",
       "lang": "zh-TW",
       "paragraphCount": 8,
@@ -212,6 +238,7 @@
     {
       "id": "peter-pan-zh-tw",
       "title": "彼得潘",
+      "author": "巴里 原著",
       "category": "童話",
       "lang": "zh-TW",
       "paragraphCount": 19,
@@ -220,6 +247,7 @@
     {
       "id": "rush-zh-tw",
       "title": "匆匆",
+      "author": "朱自清",
       "category": "散文",
       "lang": "zh-TW",
       "paragraphCount": 7,
@@ -228,6 +256,7 @@
     {
       "id": "spring-zhu-zh-tw",
       "title": "春",
+      "author": "朱自清",
       "category": "散文",
       "lang": "zh-TW",
       "paragraphCount": 6,
@@ -236,6 +265,7 @@
     {
       "id": "star-garden",
       "title": "星星花園",
+      "author": "",
       "category": "散文",
       "lang": "zh-TW",
       "paragraphCount": 10,
@@ -244,6 +274,7 @@
     {
       "id": "village-opera-zh-tw",
       "title": "社戲",
+      "author": "魯迅",
       "category": "散文",
       "lang": "zh-TW",
       "paragraphCount": 42,
@@ -252,6 +283,7 @@
     {
       "id": "ai-1775628459079-suqscc",
       "title": "萤萤的温柔之光",
+      "author": "",
       "category": "童话",
       "lang": "zh-CN",
       "paragraphCount": 11,
@@ -260,6 +292,7 @@
     {
       "id": "ai-1775628475993-92o1hd",
       "title": "小村庄的睡前安宁",
+      "author": "",
       "category": "散文",
       "lang": "zh-CN",
       "paragraphCount": 12,
@@ -268,6 +301,7 @@
     {
       "id": "autumn-capital-zh-cn",
       "title": "故都的秋",
+      "author": "郁达夫",
       "category": "散文",
       "lang": "zh-CN",
       "paragraphCount": 13,
@@ -276,6 +310,7 @@
     {
       "id": "bedtime-cn-01",
       "title": "萤火虫的灯笼节",
+      "author": "枕边书语",
       "category": "童话",
       "lang": "zh-CN",
       "paragraphCount": 12,
@@ -284,6 +319,7 @@
     {
       "id": "bedtime-cn-02",
       "title": "书店里的猫",
+      "author": "枕边书语",
       "category": "童话",
       "lang": "zh-CN",
       "paragraphCount": 11,
@@ -292,6 +328,7 @@
     {
       "id": "bedtime-cn-03",
       "title": "夜雨",
+      "author": "枕边书语",
       "category": "散文",
       "lang": "zh-CN",
       "paragraphCount": 11,
@@ -300,6 +337,7 @@
     {
       "id": "bedtime-cn-04",
       "title": "黄昏的森林",
+      "author": "枕边书语",
       "category": "自然",
       "lang": "zh-CN",
       "paragraphCount": 12,
@@ -308,6 +346,7 @@
     {
       "id": "bedtime-cn-05",
       "title": "与海洋一起呼吸",
+      "author": "枕边书语",
       "category": "冥想",
       "lang": "zh-CN",
       "paragraphCount": 12,
@@ -316,6 +355,7 @@
     {
       "id": "bedtime-cn-06",
       "title": "穿越田野的火车",
+      "author": "枕边书语",
       "category": "旅行",
       "lang": "zh-CN",
       "paragraphCount": 12,
@@ -324,6 +364,7 @@
     {
       "id": "bedtime-cn-07",
       "title": "织云的人",
+      "author": "枕边书语",
       "category": "童话",
       "lang": "zh-CN",
       "paragraphCount": 11,
@@ -332,6 +373,7 @@
     {
       "id": "bedtime-cn-08",
       "title": "冬天的花园",
+      "author": "枕边书语",
       "category": "自然",
       "lang": "zh-CN",
       "paragraphCount": 11,
@@ -340,6 +382,7 @@
     {
       "id": "cloud-cat-cn",
       "title": "云朵上的猫",
+      "author": "",
       "category": "童话",
       "lang": "zh-CN",
       "paragraphCount": 10,
@@ -348,6 +391,7 @@
     {
       "id": "farewell-cambridge-zh-cn",
       "title": "再别康桥",
+      "author": "徐志摩",
       "category": "散文",
       "lang": "zh-CN",
       "paragraphCount": 8,
@@ -356,6 +400,7 @@
     {
       "id": "fathers-back-zh-cn",
       "title": "背影",
+      "author": "朱自清",
       "category": "散文",
       "lang": "zh-CN",
       "paragraphCount": 11,
@@ -364,6 +409,7 @@
     {
       "id": "galactic-railroad-zh-cn",
       "title": "银河铁道之夜",
+      "author": "宫泽贤治 原著",
       "category": "童话",
       "lang": "zh-CN",
       "paragraphCount": 19,
@@ -372,6 +418,7 @@
     {
       "id": "gon-fox-zh-cn",
       "title": "小狐狸阿权",
+      "author": "新美南吉 原著",
       "category": "童话",
       "lang": "zh-CN",
       "paragraphCount": 15,
@@ -380,6 +427,7 @@
     {
       "id": "green-zh-cn",
       "title": "绿",
+      "author": "朱自清",
       "category": "散文",
       "lang": "zh-CN",
       "paragraphCount": 10,
@@ -388,6 +436,7 @@
     {
       "id": "happy-prince-zh-cn",
       "title": "快乐王子",
+      "author": "王尔德 原著",
       "category": "童话",
       "lang": "zh-CN",
       "paragraphCount": 14,
@@ -396,6 +445,7 @@
     {
       "id": "herb-garden-zh-cn",
       "title": "从百草园到三味书屋",
+      "author": "鲁迅",
       "category": "散文",
       "lang": "zh-CN",
       "paragraphCount": 24,
@@ -404,6 +454,7 @@
     {
       "id": "homeland-zh-cn",
       "title": "故乡",
+      "author": "鲁迅",
       "category": "散文",
       "lang": "zh-CN",
       "paragraphCount": 37,
@@ -412,6 +463,7 @@
     {
       "id": "jinan-winter-zh-cn",
       "title": "济南的冬天",
+      "author": "老舍 原着",
       "category": "散文",
       "lang": "zh-CN",
       "paragraphCount": 11,
@@ -420,6 +472,7 @@
     {
       "id": "little-prince-zh-cn",
       "title": "小王子",
+      "author": "圣埃克苏佩里 原著",
       "category": "童话",
       "lang": "zh-CN",
       "paragraphCount": 107,
@@ -428,6 +481,7 @@
     {
       "id": "lotus-moonlight-zh-cn",
       "title": "荷塘月色",
+      "author": "朱自清",
       "category": "散文",
       "lang": "zh-CN",
       "paragraphCount": 12,
@@ -436,6 +490,7 @@
     {
       "id": "missing-beiping-zh-cn",
       "title": "想北平",
+      "author": "老舍 原着",
       "category": "散文",
       "lang": "zh-CN",
       "paragraphCount": 11,
@@ -444,6 +499,7 @@
     {
       "id": "moon-lake-cn",
       "title": "月光湖",
+      "author": "",
       "category": "童话",
       "lang": "zh-CN",
       "paragraphCount": 10,
@@ -452,6 +508,7 @@
     {
       "id": "peanuts-zh-cn",
       "title": "落花生",
+      "author": "许地山",
       "category": "散文",
       "lang": "zh-CN",
       "paragraphCount": 8,
@@ -460,6 +517,7 @@
     {
       "id": "peter-pan-zh-cn",
       "title": "彼得潘",
+      "author": "巴里 原著",
       "category": "童话",
       "lang": "zh-CN",
       "paragraphCount": 19,
@@ -468,6 +526,7 @@
     {
       "id": "rush-zh-cn",
       "title": "匆匆",
+      "author": "朱自清",
       "category": "散文",
       "lang": "zh-CN",
       "paragraphCount": 7,
@@ -476,6 +535,7 @@
     {
       "id": "spring-zhu-zh-cn",
       "title": "春",
+      "author": "朱自清",
       "category": "散文",
       "lang": "zh-CN",
       "paragraphCount": 6,
@@ -484,6 +544,7 @@
     {
       "id": "star-garden-cn",
       "title": "星星花园",
+      "author": "",
       "category": "散文",
       "lang": "zh-CN",
       "paragraphCount": 9,
@@ -492,6 +553,7 @@
     {
       "id": "village-opera-zh-cn",
       "title": "社戏",
+      "author": "鲁迅",
       "category": "散文",
       "lang": "zh-CN",
       "paragraphCount": 42,
@@ -500,6 +562,7 @@
     {
       "id": "ai-1775628311871-n4akwd",
       "title": "The Lullaby Stream and Pip the Owl",
+      "author": "",
       "category": "Fairy Tale",
       "lang": "en",
       "paragraphCount": 10,
@@ -508,6 +571,7 @@
     {
       "id": "ai-1775628494434-tolk2p",
       "title": "The Lullaby of the Starry River",
+      "author": "",
       "category": "Fairy Tale",
       "lang": "en",
       "paragraphCount": 11,
@@ -516,6 +580,7 @@
     {
       "id": "bedtime-en-01",
       "title": "The Fireflies' Lantern Festival",
+      "author": "Sleep Reader",
       "category": "Fairy Tale",
       "lang": "en",
       "paragraphCount": 12,
@@ -524,6 +589,7 @@
     {
       "id": "bedtime-en-02",
       "title": "The Bookshop Cat",
+      "author": "Sleep Reader",
       "category": "Fairy Tale",
       "lang": "en",
       "paragraphCount": 11,
@@ -532,6 +598,7 @@
     {
       "id": "bedtime-en-03",
       "title": "Night Rain on the Window",
+      "author": "Sleep Reader",
       "category": "Essay",
       "lang": "en",
       "paragraphCount": 10,
@@ -540,6 +607,7 @@
     {
       "id": "bedtime-en-04",
       "title": "The Forest at Twilight",
+      "author": "Sleep Reader",
       "category": "Nature",
       "lang": "en",
       "paragraphCount": 11,
@@ -548,6 +616,7 @@
     {
       "id": "bedtime-en-05",
       "title": "Breathing with the Ocean",
+      "author": "Sleep Reader",
       "category": "Meditation",
       "lang": "en",
       "paragraphCount": 10,
@@ -556,6 +625,7 @@
     {
       "id": "bedtime-en-06",
       "title": "A Train Through the Countryside",
+      "author": "Sleep Reader",
       "category": "Travel",
       "lang": "en",
       "paragraphCount": 11,
@@ -564,6 +634,7 @@
     {
       "id": "bedtime-en-07",
       "title": "The Cloud Weaver",
+      "author": "Sleep Reader",
       "category": "Fairy Tale",
       "lang": "en",
       "paragraphCount": 11,
@@ -572,6 +643,7 @@
     {
       "id": "bedtime-en-08",
       "title": "A Garden in Winter",
+      "author": "Sleep Reader",
       "category": "Nature",
       "lang": "en",
       "paragraphCount": 11,
@@ -580,6 +652,7 @@
     {
       "id": "cloud-cat-en",
       "title": "The Cat on the Cloud",
+      "author": "",
       "category": "Fairy Tale",
       "lang": "en",
       "paragraphCount": 10,
@@ -588,6 +661,7 @@
     {
       "id": "galactic-railroad-en",
       "title": "Night on the Galactic Railroad",
+      "author": "After Miyazawa Kenji",
       "category": "Fairy Tale",
       "lang": "en",
       "paragraphCount": 19,
@@ -596,6 +670,7 @@
     {
       "id": "gon-fox-en",
       "title": "Gon, the Little Fox",
+      "author": "After Niimi Nankichi",
       "category": "Fairy Tale",
       "lang": "en",
       "paragraphCount": 15,
@@ -604,6 +679,7 @@
     {
       "id": "happy-prince-en",
       "title": "The Happy Prince",
+      "author": "After Oscar Wilde",
       "category": "Fairy Tale",
       "lang": "en",
       "paragraphCount": 14,
@@ -612,6 +688,7 @@
     {
       "id": "little-prince-en",
       "title": "The Little Prince",
+      "author": "After Saint-Exupéry",
       "category": "Fairy Tale",
       "lang": "en",
       "paragraphCount": 80,
@@ -620,6 +697,7 @@
     {
       "id": "moon-lake-en",
       "title": "The Moonlight Lake",
+      "author": "",
       "category": "Fairy Tale",
       "lang": "en",
       "paragraphCount": 10,
@@ -628,6 +706,7 @@
     {
       "id": "peter-pan-en",
       "title": "Peter Pan",
+      "author": "After J.M. Barrie",
       "category": "Fairy Tale",
       "lang": "en",
       "paragraphCount": 20,
@@ -636,6 +715,7 @@
     {
       "id": "star-garden-en",
       "title": "The Star Garden",
+      "author": "",
       "category": "Essay",
       "lang": "en",
       "paragraphCount": 9,
@@ -644,6 +724,7 @@
     {
       "id": "ai-1775626524568-g3u8nt",
       "title": "ちいさなお星さま キラリ",
+      "author": "",
       "category": "童話",
       "lang": "ja",
       "paragraphCount": 10,
@@ -652,6 +733,7 @@
     {
       "id": "ai-1775631804511-b12rel",
       "title": "夜の帳に包まれて",
+      "author": "",
       "category": "エッセイ",
       "lang": "ja",
       "paragraphCount": 12,
@@ -660,6 +742,7 @@
     {
       "id": "ai-1775631847982-u16c05",
       "title": "月明かりの湖畔で眠る夜",
+      "author": "",
       "category": "瞑想",
       "lang": "ja",
       "paragraphCount": 10,
@@ -668,6 +751,7 @@
     {
       "id": "bedtime-ja-01",
       "title": "蛍の提灯祭り",
+      "author": "枕辺の書語",
       "category": "童話",
       "lang": "ja",
       "paragraphCount": 12,
@@ -676,6 +760,7 @@
     {
       "id": "bedtime-ja-02",
       "title": "本屋の猫",
+      "author": "枕辺の書語",
       "category": "童話",
       "lang": "ja",
       "paragraphCount": 12,
@@ -684,6 +769,7 @@
     {
       "id": "bedtime-ja-03",
       "title": "夜の雨",
+      "author": "枕辺の書語",
       "category": "エッセイ",
       "lang": "ja",
       "paragraphCount": 11,
@@ -692,6 +778,7 @@
     {
       "id": "bedtime-ja-04",
       "title": "黄昏の森",
+      "author": "枕辺の書語",
       "category": "自然",
       "lang": "ja",
       "paragraphCount": 12,
@@ -700,6 +787,7 @@
     {
       "id": "bedtime-ja-05",
       "title": "海と一緒に呼吸する",
+      "author": "枕辺の書語",
       "category": "瞑想",
       "lang": "ja",
       "paragraphCount": 12,
@@ -708,6 +796,7 @@
     {
       "id": "bedtime-ja-06",
       "title": "田園を走る列車",
+      "author": "枕辺の書語",
       "category": "旅行",
       "lang": "ja",
       "paragraphCount": 12,
@@ -716,6 +805,7 @@
     {
       "id": "bedtime-ja-07",
       "title": "雲を織る人",
+      "author": "枕辺の書語",
       "category": "童話",
       "lang": "ja",
       "paragraphCount": 12,
@@ -724,6 +814,7 @@
     {
       "id": "bedtime-ja-08",
       "title": "冬の庭",
+      "author": "枕辺の書語",
       "category": "自然",
       "lang": "ja",
       "paragraphCount": 12,
@@ -732,6 +823,7 @@
     {
       "id": "cloud-cat-ja",
       "title": "雲の上の猫",
+      "author": "",
       "category": "童話",
       "lang": "ja",
       "paragraphCount": 10,
@@ -740,6 +832,7 @@
     {
       "id": "galactic-railroad-ja",
       "title": "銀河鉄道の夜",
+      "author": "宮沢賢治 原作",
       "category": "童話",
       "lang": "ja",
       "paragraphCount": 19,
@@ -748,6 +841,7 @@
     {
       "id": "gon-fox-ja",
       "title": "ごん狐",
+      "author": "新美南吉 原作",
       "category": "童話",
       "lang": "ja",
       "paragraphCount": 15,
@@ -756,6 +850,7 @@
     {
       "id": "happy-prince-ja",
       "title": "幸福の王子",
+      "author": "ワイルド 原作",
       "category": "童話",
       "lang": "ja",
       "paragraphCount": 14,
@@ -764,6 +859,7 @@
     {
       "id": "little-prince-ja",
       "title": "星の王子さま",
+      "author": "サン＝テグジュペリ 原作",
       "category": "童話",
       "lang": "ja",
       "paragraphCount": 91,
@@ -772,6 +868,7 @@
     {
       "id": "moon-lake-ja",
       "title": "月光の湖",
+      "author": "",
       "category": "童話",
       "lang": "ja",
       "paragraphCount": 10,
@@ -780,6 +877,7 @@
     {
       "id": "peter-pan-ja",
       "title": "ピーター・パン",
+      "author": "バリー 原作",
       "category": "童話",
       "lang": "ja",
       "paragraphCount": 20,
@@ -788,6 +886,7 @@
     {
       "id": "ai-1775628384909-z7tuec",
       "title": "반짝이 별의 고요한 속삭임",
+      "author": "",
       "category": "동화",
       "lang": "ko",
       "paragraphCount": 11,
@@ -796,6 +895,7 @@
     {
       "id": "ai-1775631887049-gv7yry",
       "title": "솜털 구름 아가의 포근한 꿈",
+      "author": "",
       "category": "동화",
       "lang": "ko",
       "paragraphCount": 12,
@@ -804,6 +904,7 @@
     {
       "id": "bedtime-ko-01",
       "title": "반딧불이 등불 축제",
+      "author": "베갯머리 이야기",
       "category": "동화",
       "lang": "ko",
       "paragraphCount": 12,
@@ -812,6 +913,7 @@
     {
       "id": "bedtime-ko-02",
       "title": "서점의 고양이",
+      "author": "베갯머리 이야기",
       "category": "동화",
       "lang": "ko",
       "paragraphCount": 11,
@@ -820,6 +922,7 @@
     {
       "id": "bedtime-ko-03",
       "title": "밤비",
+      "author": "베갯머리 이야기",
       "category": "수필",
       "lang": "ko",
       "paragraphCount": 11,
@@ -828,6 +931,7 @@
     {
       "id": "bedtime-ko-04",
       "title": "황혼의 숲",
+      "author": "베갯머리 이야기",
       "category": "자연",
       "lang": "ko",
       "paragraphCount": 11,
@@ -836,6 +940,7 @@
     {
       "id": "bedtime-ko-05",
       "title": "바다와 함께 숨쉬기",
+      "author": "베갯머리 이야기",
       "category": "명상",
       "lang": "ko",
       "paragraphCount": 12,
@@ -844,6 +949,7 @@
     {
       "id": "bedtime-ko-06",
       "title": "시골을 달리는 기차",
+      "author": "베갯머리 이야기",
       "category": "여행",
       "lang": "ko",
       "paragraphCount": 11,
@@ -852,6 +958,7 @@
     {
       "id": "bedtime-ko-07",
       "title": "구름을 짜는 사람",
+      "author": "베갯머리 이야기",
       "category": "동화",
       "lang": "ko",
       "paragraphCount": 11,
@@ -860,6 +967,7 @@
     {
       "id": "bedtime-ko-08",
       "title": "겨울 정원",
+      "author": "베갯머리 이야기",
       "category": "자연",
       "lang": "ko",
       "paragraphCount": 11,
@@ -868,6 +976,7 @@
     {
       "id": "cloud-cat-ko",
       "title": "구름 위의 고양이",
+      "author": "",
       "category": "동화",
       "lang": "ko",
       "paragraphCount": 10,
@@ -876,6 +985,7 @@
     {
       "id": "galactic-railroad-ko",
       "title": "은하철도의 밤",
+      "author": "미야자와 겐지 원작",
       "category": "동화",
       "lang": "ko",
       "paragraphCount": 19,
@@ -884,6 +994,7 @@
     {
       "id": "gon-fox-ko",
       "title": "여우 곤",
+      "author": "니이미 난키치 원작",
       "category": "동화",
       "lang": "ko",
       "paragraphCount": 15,
@@ -892,6 +1003,7 @@
     {
       "id": "happy-prince-ko",
       "title": "행복한 왕자",
+      "author": "오스카 와일드 원작",
       "category": "동화",
       "lang": "ko",
       "paragraphCount": 14,
@@ -900,6 +1012,7 @@
     {
       "id": "little-prince-ko",
       "title": "어린 왕자",
+      "author": "생텍쥐페리 원작",
       "category": "동화",
       "lang": "ko",
       "paragraphCount": 100,
@@ -908,6 +1021,7 @@
     {
       "id": "moon-lake-ko",
       "title": "달빛 호수",
+      "author": "",
       "category": "동화",
       "lang": "ko",
       "paragraphCount": 10,
@@ -916,6 +1030,7 @@
     {
       "id": "peter-pan-ko",
       "title": "피터 팬",
+      "author": "배리 원작",
       "category": "동화",
       "lang": "ko",
       "paragraphCount": 20,
@@ -924,6 +1039,7 @@
     {
       "id": "star-garden-ko",
       "title": "별의 정원",
+      "author": "",
       "category": "수필",
       "lang": "ko",
       "paragraphCount": 9,

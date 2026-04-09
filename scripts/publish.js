@@ -26,6 +26,7 @@ for (const lang of LANGS) {
     index.push({
       id: story.id,
       title: story.title,
+      author: story.author || "",
       category: story.category || "",
       lang,
       paragraphCount: story.paragraphs?.length || 0,
