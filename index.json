@@ -1,5 +1,5 @@
 {
-  "version": 1775692431051,
+  "version": 1775696002604,
   "stories": [
     {
       "id": "ai-1775628414016-av4r6m",
@@ -90,6 +90,30 @@
       "file": "stories/zh-TW/cloud-cat.json"
     },
     {
+      "id": "galactic-railroad-zh-tw",
+      "title": "銀河鐵道之夜",
+      "category": "童話",
+      "lang": "zh-TW",
+      "paragraphCount": 19,
+      "file": "stories/zh-TW/galactic-railroad-zh-tw.json"
+    },
+    {
+      "id": "gon-fox-zh-tw",
+      "title": "小狐狸阿權",
+      "category": "童話",
+      "lang": "zh-TW",
+      "paragraphCount": 15,
+      "file": "stories/zh-TW/gon-fox-zh-tw.json"
+    },
+    {
+      "id": "happy-prince-zh-tw",
+      "title": "快樂王子",
+      "category": "童話",
+      "lang": "zh-TW",
+      "paragraphCount": 14,
+      "file": "stories/zh-TW/happy-prince-zh-tw.json"
+    },
+    {
       "id": "little-prince-zh-tw",
       "title": "小王子",
       "category": "童話",
@@ -104,6 +128,14 @@
       "lang": "zh-TW",
       "paragraphCount": 10,
       "file": "stories/zh-TW/moon-lake.json"
+    },
+    {
+      "id": "peter-pan-zh-tw",
+      "title": "彼得潘",
+      "category": "童話",
+      "lang": "zh-TW",
+      "paragraphCount": 19,
+      "file": "stories/zh-TW/peter-pan-zh-tw.json"
     },
     {
       "id": "star-garden",
@@ -202,6 +234,30 @@
       "file": "stories/zh-CN/cloud-cat-cn.json"
     },
     {
+      "id": "galactic-railroad-zh-cn",
+      "title": "银河铁道之夜",
+      "category": "童话",
+      "lang": "zh-CN",
+      "paragraphCount": 19,
+      "file": "stories/zh-CN/galactic-railroad-zh-cn.json"
+    },
+    {
+      "id": "gon-fox-zh-cn",
+      "title": "小狐狸阿权",
+      "category": "童话",
+      "lang": "zh-CN",
+      "paragraphCount": 15,
+      "file": "stories/zh-CN/gon-fox-zh-cn.json"
+    },
+    {
+      "id": "happy-prince-zh-cn",
+      "title": "快乐王子",
+      "category": "童话",
+      "lang": "zh-CN",
+      "paragraphCount": 14,
+      "file": "stories/zh-CN/happy-prince-zh-cn.json"
+    },
+    {
       "id": "little-prince-zh-cn",
       "title": "小王子",
       "category": "童话",
@@ -216,6 +272,14 @@
       "lang": "zh-CN",
       "paragraphCount": 10,
       "file": "stories/zh-CN/moon-lake-cn.json"
+    },
+    {
+      "id": "peter-pan-zh-cn",
+      "title": "彼得潘",
+      "category": "童话",
+      "lang": "zh-CN",
+      "paragraphCount": 19,
+      "file": "stories/zh-CN/peter-pan-zh-cn.json"
     },
     {
       "id": "star-garden-cn",
@@ -314,6 +378,30 @@
       "file": "stories/en/cloud-cat-en.json"
     },
     {
+      "id": "galactic-railroad-en",
+      "title": "Night on the Galactic Railroad",
+      "category": "Fairy Tale",
+      "lang": "en",
+      "paragraphCount": 19,
+      "file": "stories/en/galactic-railroad-en.json"
+    },
+    {
+      "id": "gon-fox-en",
+      "title": "Gon, the Little Fox",
+      "category": "Fairy Tale",
+      "lang": "en",
+      "paragraphCount": 15,
+      "file": "stories/en/gon-fox-en.json"
+    },
+    {
+      "id": "happy-prince-en",
+      "title": "The Happy Prince",
+      "category": "Fairy Tale",
+      "lang": "en",
+      "paragraphCount": 14,
+      "file": "stories/en/happy-prince-en.json"
+    },
+    {
       "id": "little-prince-en",
       "title": "The Little Prince",
       "category": "Fairy Tale",
@@ -328,6 +416,14 @@
       "lang": "en",
       "paragraphCount": 10,
       "file": "stories/en/moon-lake-en.json"
+    },
+    {
+      "id": "peter-pan-en",
+      "title": "Peter Pan",
+      "category": "Fairy Tale",
+      "lang": "en",
+      "paragraphCount": 20,
+      "file": "stories/en/peter-pan-en.json"
     },
     {
       "id": "star-garden-en",
@@ -434,6 +530,30 @@
       "file": "stories/ja/cloud-cat-ja.json"
     },
     {
+      "id": "galactic-railroad-ja",
+      "title": "銀河鉄道の夜",
+      "category": "童話",
+      "lang": "ja",
+      "paragraphCount": 19,
+      "file": "stories/ja/galactic-railroad-ja.json"
+    },
+    {
+      "id": "gon-fox-ja",
+      "title": "ごん狐",
+      "category": "童話",
+      "lang": "ja",
+      "paragraphCount": 15,
+      "file": "stories/ja/gon-fox-ja.json"
+    },
+    {
+      "id": "happy-prince-ja",
+      "title": "幸福の王子",
+      "category": "童話",
+      "lang": "ja",
+      "paragraphCount": 14,
+      "file": "stories/ja/happy-prince-ja.json"
+    },
+    {
       "id": "little-prince-ja",
       "title": "星の王子さま",
       "category": "童話",
@@ -448,6 +568,14 @@
       "lang": "ja",
       "paragraphCount": 10,
       "file": "stories/ja/moon-lake-ja.json"
+    },
+    {
+      "id": "peter-pan-ja",
+      "title": "ピーター・パン",
+      "category": "童話",
+      "lang": "ja",
+      "paragraphCount": 20,
+      "file": "stories/ja/peter-pan-ja.json"
     },
     {
       "id": "ai-1775628384909-z7tuec",
@@ -538,6 +666,30 @@
       "file": "stories/ko/cloud-cat-ko.json"
     },
     {
+      "id": "galactic-railroad-ko",
+      "title": "은하철도의 밤",
+      "category": "동화",
+      "lang": "ko",
+      "paragraphCount": 19,
+      "file": "stories/ko/galactic-railroad-ko.json"
+    },
+    {
+      "id": "gon-fox-ko",
+      "title": "여우 곤",
+      "category": "동화",
+      "lang": "ko",
+      "paragraphCount": 15,
+      "file": "stories/ko/gon-fox-ko.json"
+    },
+    {
+      "id": "happy-prince-ko",
+      "title": "행복한 왕자",
+      "category": "동화",
+      "lang": "ko",
+      "paragraphCount": 14,
+      "file": "stories/ko/happy-prince-ko.json"
+    },
+    {
       "id": "little-prince-ko",
       "title": "어린 왕자",
       "category": "동화",
@@ -552,6 +704,14 @@
       "lang": "ko",
       "paragraphCount": 10,
       "file": "stories/ko/moon-lake-ko.json"
+    },
+    {
+      "id": "peter-pan-ko",
+      "title": "피터 팬",
+      "category": "동화",
+      "lang": "ko",
+      "paragraphCount": 20,
+      "file": "stories/ko/peter-pan-ko.json"
     },
     {
       "id": "star-garden-ko",
