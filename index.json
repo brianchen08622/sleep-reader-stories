@@ -1,5 +1,5 @@
 {
-  "version": 1775698967146,
+  "version": 1775712760563,
   "stories": [
     {
       "id": "ai-1775628414016-av4r6m",
@@ -16,6 +16,14 @@
       "lang": "zh-TW",
       "paragraphCount": 10,
       "file": "stories/zh-TW/ai-1775628438215-ekegy6.json"
+    },
+    {
+      "id": "autumn-capital-zh-tw",
+      "title": "故都的秋",
+      "category": "散文",
+      "lang": "zh-TW",
+      "paragraphCount": 13,
+      "file": "stories/zh-TW/autumn-capital-zh-tw.json"
     },
     {
       "id": "bedtime-zh-01",
@@ -90,6 +98,22 @@
       "file": "stories/zh-TW/cloud-cat.json"
     },
     {
+      "id": "farewell-cambridge-zh-tw",
+      "title": "再別康橋",
+      "category": "散文",
+      "lang": "zh-TW",
+      "paragraphCount": 8,
+      "file": "stories/zh-TW/farewell-cambridge-zh-tw.json"
+    },
+    {
+      "id": "fathers-back-zh-tw",
+      "title": "背影",
+      "category": "散文",
+      "lang": "zh-TW",
+      "paragraphCount": 11,
+      "file": "stories/zh-TW/fathers-back-zh-tw.json"
+    },
+    {
       "id": "galactic-railroad-zh-tw",
       "title": "銀河鐵道之夜",
       "category": "童話",
@@ -106,12 +130,44 @@
       "file": "stories/zh-TW/gon-fox-zh-tw.json"
     },
     {
+      "id": "green-zh-tw",
+      "title": "綠",
+      "category": "散文",
+      "lang": "zh-TW",
+      "paragraphCount": 10,
+      "file": "stories/zh-TW/green-zh-tw.json"
+    },
+    {
       "id": "happy-prince-zh-tw",
       "title": "快樂王子",
       "category": "童話",
       "lang": "zh-TW",
       "paragraphCount": 14,
       "file": "stories/zh-TW/happy-prince-zh-tw.json"
+    },
+    {
+      "id": "herb-garden-zh-tw",
+      "title": "從百草園到三味書屋",
+      "category": "散文",
+      "lang": "zh-TW",
+      "paragraphCount": 24,
+      "file": "stories/zh-TW/herb-garden-zh-tw.json"
+    },
+    {
+      "id": "homeland-zh-tw",
+      "title": "故鄉",
+      "category": "散文",
+      "lang": "zh-TW",
+      "paragraphCount": 37,
+      "file": "stories/zh-TW/homeland-zh-tw.json"
+    },
+    {
+      "id": "jinan-winter-zh-tw",
+      "title": "濟南的冬天",
+      "category": "散文",
+      "lang": "zh-TW",
+      "paragraphCount": 11,
+      "file": "stories/zh-TW/jinan-winter-zh-tw.json"
     },
     {
       "id": "little-prince-zh-tw",
@@ -122,12 +178,36 @@
       "file": "stories/zh-TW/little-prince-zh-tw.json"
     },
     {
+      "id": "lotus-moonlight-zh-tw",
+      "title": "荷塘月色",
+      "category": "散文",
+      "lang": "zh-TW",
+      "paragraphCount": 12,
+      "file": "stories/zh-TW/lotus-moonlight-zh-tw.json"
+    },
+    {
+      "id": "missing-beiping-zh-tw",
+      "title": "想北平",
+      "category": "散文",
+      "lang": "zh-TW",
+      "paragraphCount": 11,
+      "file": "stories/zh-TW/missing-beiping-zh-tw.json"
+    },
+    {
       "id": "moon-lake",
       "title": "月光湖",
       "category": "童話",
       "lang": "zh-TW",
       "paragraphCount": 10,
       "file": "stories/zh-TW/moon-lake.json"
+    },
+    {
+      "id": "peanuts-zh-tw",
+      "title": "落花生",
+      "category": "散文",
+      "lang": "zh-TW",
+      "paragraphCount": 8,
+      "file": "stories/zh-TW/peanuts-zh-tw.json"
     },
     {
       "id": "peter-pan-zh-tw",
@@ -138,12 +218,36 @@
       "file": "stories/zh-TW/peter-pan-zh-tw.json"
     },
     {
+      "id": "rush-zh-tw",
+      "title": "匆匆",
+      "category": "散文",
+      "lang": "zh-TW",
+      "paragraphCount": 7,
+      "file": "stories/zh-TW/rush-zh-tw.json"
+    },
+    {
+      "id": "spring-zhu-zh-tw",
+      "title": "春",
+      "category": "散文",
+      "lang": "zh-TW",
+      "paragraphCount": 6,
+      "file": "stories/zh-TW/spring-zhu-zh-tw.json"
+    },
+    {
       "id": "star-garden",
       "title": "星星花園",
       "category": "散文",
       "lang": "zh-TW",
       "paragraphCount": 10,
       "file": "stories/zh-TW/star-garden.json"
+    },
+    {
+      "id": "village-opera-zh-tw",
+      "title": "社戲",
+      "category": "散文",
+      "lang": "zh-TW",
+      "paragraphCount": 42,
+      "file": "stories/zh-TW/village-opera-zh-tw.json"
     },
     {
       "id": "ai-1775628459079-suqscc",
@@ -160,6 +264,14 @@
       "lang": "zh-CN",
       "paragraphCount": 12,
       "file": "stories/zh-CN/ai-1775628475993-92o1hd.json"
+    },
+    {
+      "id": "autumn-capital-zh-cn",
+      "title": "故都的秋",
+      "category": "散文",
+      "lang": "zh-CN",
+      "paragraphCount": 13,
+      "file": "stories/zh-CN/autumn-capital-zh-cn.json"
     },
     {
       "id": "bedtime-cn-01",
@@ -234,6 +346,22 @@
       "file": "stories/zh-CN/cloud-cat-cn.json"
     },
     {
+      "id": "farewell-cambridge-zh-cn",
+      "title": "再别康桥",
+      "category": "散文",
+      "lang": "zh-CN",
+      "paragraphCount": 8,
+      "file": "stories/zh-CN/farewell-cambridge-zh-cn.json"
+    },
+    {
+      "id": "fathers-back-zh-cn",
+      "title": "背影",
+      "category": "散文",
+      "lang": "zh-CN",
+      "paragraphCount": 11,
+      "file": "stories/zh-CN/fathers-back-zh-cn.json"
+    },
+    {
       "id": "galactic-railroad-zh-cn",
       "title": "银河铁道之夜",
       "category": "童话",
@@ -250,12 +378,44 @@
       "file": "stories/zh-CN/gon-fox-zh-cn.json"
     },
     {
+      "id": "green-zh-cn",
+      "title": "绿",
+      "category": "散文",
+      "lang": "zh-CN",
+      "paragraphCount": 10,
+      "file": "stories/zh-CN/green-zh-cn.json"
+    },
+    {
       "id": "happy-prince-zh-cn",
       "title": "快乐王子",
       "category": "童话",
       "lang": "zh-CN",
       "paragraphCount": 14,
       "file": "stories/zh-CN/happy-prince-zh-cn.json"
+    },
+    {
+      "id": "herb-garden-zh-cn",
+      "title": "从百草园到三味书屋",
+      "category": "散文",
+      "lang": "zh-CN",
+      "paragraphCount": 24,
+      "file": "stories/zh-CN/herb-garden-zh-cn.json"
+    },
+    {
+      "id": "homeland-zh-cn",
+      "title": "故乡",
+      "category": "散文",
+      "lang": "zh-CN",
+      "paragraphCount": 37,
+      "file": "stories/zh-CN/homeland-zh-cn.json"
+    },
+    {
+      "id": "jinan-winter-zh-cn",
+      "title": "济南的冬天",
+      "category": "散文",
+      "lang": "zh-CN",
+      "paragraphCount": 11,
+      "file": "stories/zh-CN/jinan-winter-zh-cn.json"
     },
     {
       "id": "little-prince-zh-cn",
@@ -266,12 +426,36 @@
       "file": "stories/zh-CN/little-prince-zh-cn.json"
     },
     {
+      "id": "lotus-moonlight-zh-cn",
+      "title": "荷塘月色",
+      "category": "散文",
+      "lang": "zh-CN",
+      "paragraphCount": 12,
+      "file": "stories/zh-CN/lotus-moonlight-zh-cn.json"
+    },
+    {
+      "id": "missing-beiping-zh-cn",
+      "title": "想北平",
+      "category": "散文",
+      "lang": "zh-CN",
+      "paragraphCount": 11,
+      "file": "stories/zh-CN/missing-beiping-zh-cn.json"
+    },
+    {
       "id": "moon-lake-cn",
       "title": "月光湖",
       "category": "童话",
       "lang": "zh-CN",
       "paragraphCount": 10,
       "file": "stories/zh-CN/moon-lake-cn.json"
+    },
+    {
+      "id": "peanuts-zh-cn",
+      "title": "落花生",
+      "category": "散文",
+      "lang": "zh-CN",
+      "paragraphCount": 8,
+      "file": "stories/zh-CN/peanuts-zh-cn.json"
     },
     {
       "id": "peter-pan-zh-cn",
@@ -282,12 +466,36 @@
       "file": "stories/zh-CN/peter-pan-zh-cn.json"
     },
     {
+      "id": "rush-zh-cn",
+      "title": "匆匆",
+      "category": "散文",
+      "lang": "zh-CN",
+      "paragraphCount": 7,
+      "file": "stories/zh-CN/rush-zh-cn.json"
+    },
+    {
+      "id": "spring-zhu-zh-cn",
+      "title": "春",
+      "category": "散文",
+      "lang": "zh-CN",
+      "paragraphCount": 6,
+      "file": "stories/zh-CN/spring-zhu-zh-cn.json"
+    },
+    {
       "id": "star-garden-cn",
       "title": "星星花园",
       "category": "散文",
       "lang": "zh-CN",
       "paragraphCount": 9,
       "file": "stories/zh-CN/star-garden-cn.json"
+    },
+    {
+      "id": "village-opera-zh-cn",
+      "title": "社戏",
+      "category": "散文",
+      "lang": "zh-CN",
+      "paragraphCount": 42,
+      "file": "stories/zh-CN/village-opera-zh-cn.json"
     },
     {
       "id": "ai-1775628311871-n4akwd",
