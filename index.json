@@ -1,5 +1,5 @@
 {
-  "version": 1775696002604,
+  "version": 1775698967146,
   "stories": [
     {
       "id": "ai-1775628414016-av4r6m",
@@ -118,7 +118,7 @@
       "title": "小王子",
       "category": "童話",
       "lang": "zh-TW",
-      "paragraphCount": 28,
+      "paragraphCount": 91,
       "file": "stories/zh-TW/little-prince-zh-tw.json"
     },
     {
@@ -262,7 +262,7 @@
       "title": "小王子",
       "category": "童话",
       "lang": "zh-CN",
-      "paragraphCount": 29,
+      "paragraphCount": 107,
       "file": "stories/zh-CN/little-prince-zh-cn.json"
     },
     {
@@ -406,7 +406,7 @@
       "title": "The Little Prince",
       "category": "Fairy Tale",
       "lang": "en",
-      "paragraphCount": 29,
+      "paragraphCount": 80,
       "file": "stories/en/little-prince-en.json"
     },
     {
@@ -558,7 +558,7 @@
       "title": "星の王子さま",
       "category": "童話",
       "lang": "ja",
-      "paragraphCount": 27,
+      "paragraphCount": 91,
       "file": "stories/ja/little-prince-ja.json"
     },
     {
@@ -694,7 +694,7 @@
       "title": "어린 왕자",
       "category": "동화",
       "lang": "ko",
-      "paragraphCount": 28,
+      "paragraphCount": 100,
       "file": "stories/ko/little-prince-ko.json"
     },
     {
