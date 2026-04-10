@@ -1,5 +1,5 @@
 {
-  "version": 1775713542960,
+  "version": 1775803678576,
   "stories": [
     {
       "id": "ai-1775628414016-av4r6m",
@@ -668,6 +668,15 @@
       "file": "stories/en/galactic-railroad-en.json"
     },
     {
+      "id": "gift-magi-en",
+      "title": "The Gift of the Magi",
+      "author": "O. Henry",
+      "category": "Literature",
+      "lang": "en",
+      "paragraphCount": 64,
+      "file": "stories/en/gift-magi-en.json"
+    },
+    {
       "id": "gon-fox-en",
       "title": "Gon, the Little Fox",
       "author": "After Niimi Nankichi",
@@ -684,6 +693,15 @@
       "lang": "en",
       "paragraphCount": 14,
       "file": "stories/en/happy-prince-en.json"
+    },
+    {
+      "id": "last-leaf-en",
+      "title": "The Last Leaf",
+      "author": "O. Henry",
+      "category": "Literature",
+      "lang": "en",
+      "paragraphCount": 71,
+      "file": "stories/en/last-leaf-en.json"
     },
     {
       "id": "little-prince-en",
@@ -704,6 +722,24 @@
       "file": "stories/en/moon-lake-en.json"
     },
     {
+      "id": "nightingale-rose-en",
+      "title": "The Nightingale and the Rose",
+      "author": "Oscar Wilde",
+      "category": "Literature",
+      "lang": "en",
+      "paragraphCount": 36,
+      "file": "stories/en/nightingale-rose-en.json"
+    },
+    {
+      "id": "open-window-en",
+      "title": "The Open Window",
+      "author": "Saki",
+      "category": "Literature",
+      "lang": "en",
+      "paragraphCount": 42,
+      "file": "stories/en/open-window-en.json"
+    },
+    {
       "id": "peter-pan-en",
       "title": "Peter Pan",
       "author": "After J.M. Barrie",
@@ -713,6 +749,24 @@
       "file": "stories/en/peter-pan-en.json"
     },
     {
+      "id": "raven-en",
+      "title": "The Raven",
+      "author": "Edgar Allan Poe",
+      "category": "Poetry",
+      "lang": "en",
+      "paragraphCount": 27,
+      "file": "stories/en/raven-en.json"
+    },
+    {
+      "id": "selfish-giant-en",
+      "title": "The Selfish Giant",
+      "author": "Oscar Wilde",
+      "category": "Literature",
+      "lang": "en",
+      "paragraphCount": 51,
+      "file": "stories/en/selfish-giant-en.json"
+    },
+    {
       "id": "star-garden-en",
       "title": "The Star Garden",
       "author": "",
@@ -720,6 +774,15 @@
       "lang": "en",
       "paragraphCount": 9,
       "file": "stories/en/star-garden-en.json"
+    },
+    {
+      "id": "tell-tale-heart-en",
+      "title": "The Tell-Tale Heart",
+      "author": "Edgar Allan Poe",
+      "category": "Literature",
+      "lang": "en",
+      "paragraphCount": 63,
+      "file": "stories/en/tell-tale-heart-en.json"
     },
     {
       "id": "ai-1775626524568-g3u8nt",
@@ -747,6 +810,15 @@
       "lang": "ja",
       "paragraphCount": 10,
       "file": "stories/ja/ai-1775631847982-u16c05.json"
+    },
+    {
+      "id": "ame-nimo-makezu-ja",
+      "title": "雨ニモマケズ",
+      "author": "宮沢賢治",
+      "category": "詩",
+      "lang": "ja",
+      "paragraphCount": 38,
+      "file": "stories/ja/ame-nimo-makezu-ja.json"
     },
     {
       "id": "bedtime-ja-01",
@@ -839,6 +911,15 @@
       "file": "stories/ja/galactic-railroad-ja.json"
     },
     {
+      "id": "ginga-tetsudo-ja",
+      "title": "銀河鉄道の夜",
+      "author": "宮沢賢治",
+      "category": "文学",
+      "lang": "ja",
+      "paragraphCount": 209,
+      "file": "stories/ja/ginga-tetsudo-ja.json"
+    },
+    {
       "id": "gon-fox-ja",
       "title": "ごん狐",
       "author": "新美南吉 原作",
@@ -855,6 +936,24 @@
       "lang": "ja",
       "paragraphCount": 14,
       "file": "stories/ja/happy-prince-ja.json"
+    },
+    {
+      "id": "hashire-melos-ja",
+      "title": "走れメロス",
+      "author": "太宰治",
+      "category": "文学",
+      "lang": "ja",
+      "paragraphCount": 50,
+      "file": "stories/ja/hashire-melos-ja.json"
+    },
+    {
+      "id": "kumo-no-ito-ja",
+      "title": "蜘蛛の糸",
+      "author": "芥川龍之介",
+      "category": "文学",
+      "lang": "ja",
+      "paragraphCount": 19,
+      "file": "stories/ja/kumo-no-ito-ja.json"
     },
     {
       "id": "little-prince-ja",
@@ -882,6 +981,24 @@
       "lang": "ja",
       "paragraphCount": 20,
       "file": "stories/ja/peter-pan-ja.json"
+    },
+    {
+      "id": "toshishun-ja",
+      "title": "杜子春",
+      "author": "芥川龍之介",
+      "category": "文学",
+      "lang": "ja",
+      "paragraphCount": 21,
+      "file": "stories/ja/toshishun-ja.json"
+    },
+    {
+      "id": "yume-juya-ja",
+      "title": "夢十夜",
+      "author": "夏目漱石",
+      "category": "文学",
+      "lang": "ja",
+      "paragraphCount": 86,
+      "file": "stories/ja/yume-juya-ja.json"
     },
     {
       "id": "ai-1775628384909-z7tuec",
@@ -974,6 +1091,24 @@
       "file": "stories/ko/bedtime-ko-08.json"
     },
     {
+      "id": "bombom-ko",
+      "title": "봄봄",
+      "author": "김유정",
+      "category": "문학",
+      "lang": "ko",
+      "paragraphCount": 71,
+      "file": "stories/ko/bombom-ko.json"
+    },
+    {
+      "id": "byeol-heneun-bam-ko",
+      "title": "별 헤는 밤",
+      "author": "윤동주",
+      "category": "시",
+      "lang": "ko",
+      "paragraphCount": 11,
+      "file": "stories/ko/byeol-heneun-bam-ko.json"
+    },
+    {
       "id": "cloud-cat-ko",
       "title": "구름 위의 고양이",
       "author": "",
@@ -981,6 +1116,15 @@
       "lang": "ko",
       "paragraphCount": 10,
       "file": "stories/ko/cloud-cat-ko.json"
+    },
+    {
+      "id": "dongbaekkkot-ko",
+      "title": "동백꽃",
+      "author": "김유정",
+      "category": "문학",
+      "lang": "ko",
+      "paragraphCount": 51,
+      "file": "stories/ko/dongbaekkkot-ko.json"
     },
     {
       "id": "galactic-railroad-ko",
@@ -1010,6 +1154,15 @@
       "file": "stories/ko/happy-prince-ko.json"
     },
     {
+      "id": "jindallaekkot-ko",
+      "title": "진달래꽃",
+      "author": "김소월",
+      "category": "시",
+      "lang": "ko",
+      "paragraphCount": 5,
+      "file": "stories/ko/jindallaekkot-ko.json"
+    },
+    {
       "id": "little-prince-ko",
       "title": "어린 왕자",
       "author": "생텍쥐페리 원작",
@@ -1028,6 +1181,15 @@
       "file": "stories/ko/moon-lake-ko.json"
     },
     {
+      "id": "nalgae-ko",
+      "title": "날개",
+      "author": "이상",
+      "category": "문학",
+      "lang": "ko",
+      "paragraphCount": 146,
+      "file": "stories/ko/nalgae-ko.json"
+    },
+    {
       "id": "peter-pan-ko",
       "title": "피터 팬",
       "author": "배리 원작",
@@ -1037,6 +1199,15 @@
       "file": "stories/ko/peter-pan-ko.json"
     },
     {
+      "id": "seosi-ko",
+      "title": "서시",
+      "author": "윤동주",
+      "category": "시",
+      "lang": "ko",
+      "paragraphCount": 4,
+      "file": "stories/ko/seosi-ko.json"
+    },
+    {
       "id": "star-garden-ko",
       "title": "별의 정원",
       "author": "",
@@ -1044,6 +1215,15 @@
       "lang": "ko",
       "paragraphCount": 9,
       "file": "stories/ko/star-garden-ko.json"
+    },
+    {
+      "id": "unsu-joeun-nal-ko",
+      "title": "운수 좋은 날",
+      "author": "현진건",
+      "category": "문학",
+      "lang": "ko",
+      "paragraphCount": 74,
+      "file": "stories/ko/unsu-joeun-nal-ko.json"
     }
   ]
 }
